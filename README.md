@@ -1,5 +1,6 @@
 ## About me
-
+I am studying in the second year of the Lviv Polytechnic.
+I have been programming for about eight years.
 ## Lastet Tweets
 
 ## Languages and Tools

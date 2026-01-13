@@ -1,7 +1,7 @@
 ## About me
-I was studyied in the Lviv Polytechnic National University.
+I studied at the Lviv Polytechnic National University.
 
-## Lastet Tweets
+## Lastest Tweets
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VistBlade) 

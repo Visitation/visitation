@@ -1,6 +1,6 @@
 ## About me
-I am studying in the second year of the Lviv Polytechnic.
-I have been programming for about eight years.
+I was studyied in the Lviv Polytechnic National University.
+
 ## Lastet Tweets
 
 ## 🌐 Socials:

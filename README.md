@@ -18,4 +18,3 @@ I studied at the Lviv Polytechnic National University.
 ---
 [![](https://visitcount.itsvg.in/api?id=Visitation&icon=1&color=13)](https://visitcount.itsvg.in)
 
-.
